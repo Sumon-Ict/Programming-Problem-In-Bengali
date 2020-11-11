@@ -18,3 +18,4 @@
 #### - [গ্রুপ কর্তৃক আয়োজিত সকল কনটেস্টের লিংক](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/All%20Contest%20Links.md)
 #### - [প্রোগ্রামিং সংক্রান্ত বিভিন্ন জিজ্ঞাসা](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/FAQ%20(About%20Programming).md)
 #### - [প্রোগ্রামিং বিষয়ক অনুপ্রেরণামূলক পোস্ট](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Inspirational%20Post%20about%20Programming.md) 
+https://www.practiceexercisescsharp.com/csharp-programming-exercises
